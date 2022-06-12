@@ -4,7 +4,7 @@ Xaquín Veira-González[^a] [^b] (xaquin@fundaciovit.org), Anton Bardera[^a] [^b
 [^a]: Fundació Visualització per a la Transparència (ViT)
 [^b]: Graphics and Imaging Laboratory, Universitat de Girona
 
-Summary TK TK
+TK TK Summary TK TK
 
 ```
 **Why Barfi?**
