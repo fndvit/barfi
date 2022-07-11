@@ -4,7 +4,7 @@ Xaquín Veira-González[^a] [^b] (xaquin@fundaciovit.org), Anton Bardera[^a] [^b
 [^a]: Fundació Visualització per a la Transparència (ViT)
 [^b]: Graphics and Imaging Laboratory, Universitat de Girona
 
-TK TK Summary TK TK
+**Barfi** is an interactive tool to create square (Demers) cartograms using a force-directed layout. It spun off a collaboration with the United Nations Environment Programme and a good bunch of design restrictions when visualizing data about the climate crisis.
 
 ```
 **Why Barfi?**
@@ -17,9 +17,9 @@ Because the tool uses *d3-force* (a force-directed graph drawing algorithm) →
 ## 
 
 We presented the tool in the 2022 Open GIS Conference organized by Universitat de Girona's SIGTE.
-* Watch the presentation
-* You can follow along with the slides
-* Read the summary in [English](#this), [Spanish](#teselas-demers-y-los-datos-geoclimáticos-de-la-onu
+* [Watch the presentation](http://diobma.udg.edu/handle/10256.1/6776)
+* You can follow along with the slides (the slides in the video are too bright)
+* Read the summary in [English](#tiles-demers-and-climate-data), [Spanish](#teselas-demers-y-los-datos-geoclimáticos-de-la-onu
 ), [Catalan](#rajoles-demers-i-les-dades-geoclimàtiques-de-lonu
 )
 
@@ -29,9 +29,9 @@ Here're some examples with the results of our tool
 * [Climate Action Note](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html)
 * [Air Pollution Action Note](https://www.unep.org/interactive/air-pollution-note/)
 
-[IMAGE OF CLIMATE ACTION NOTE]
+![Poster image of UNEP's Climate Action Note](https://cdn.unenvironment.org/s3fs-public/2021-11/ClimateAction-Banner.jpg)
 
-We've also submitted it for TK TK and 
+We're currently working on a paper looking at the task-based effectiveness of these visualizations.
 
 ## To do before open sourcing:
 - [ ] Add your own geography
