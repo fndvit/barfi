@@ -6,8 +6,9 @@ Xaquín Veira-González[^a] [^b] (xaquin@fundaciovit.org), Anton Bardera[^a] [^b
 
 **Barfi** is an interactive tool to create square (Demers) cartograms using a force-directed layout. It spun off a collaboration with the United Nations Environment Programme and a good bunch of design restrictions when visualizing data about the climate crisis.
 
-```
 **Why Barfi?**
+
+```
 Because the tool uses *d3-force* (a force-directed graph drawing algorithm) →
 → Matt called the original repo *cartogram fdg* →
 → *fdg* reads as *fudge* →
